@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowDown, ArrowUpRight, Heart, LockKeyhole, Sparkles } from "lucide-react";
+import { ArrowUpRight, Heart, LockKeyhole, Sparkles } from "lucide-react";
 import { identity } from "./data/identity";
 import { destinations } from "./data/destinations";
 import type { DestinationId } from "./types";
